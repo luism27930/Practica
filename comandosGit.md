@@ -97,5 +97,18 @@ Para activarlo nuevamente el ultimo en la pila usamos:
     git stash pop
 
 
+## Comandos Basicos
 
+Para observar el contenido de un directorio utilizamos el comando:
+
+    ls
+
+Para regresar al directorio padre usamos el comando:
+
+    cd ..
+
+Para limpiar la consola utilizamos:
+
+    clear
+    
 
